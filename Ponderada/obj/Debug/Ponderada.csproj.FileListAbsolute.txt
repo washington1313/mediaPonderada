@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\bin\Debug\Ponderada.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\bin\Debug\Ponderada.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\bin\Debug\Ponderada.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\obj\Debug\Ponderada.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\obj\Debug\Ponderada.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\obj\Debug\Ponderada.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\obj\Debug\Ponderada.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\Ponderada\Ponderada\obj\Debug\Ponderada.pdb
